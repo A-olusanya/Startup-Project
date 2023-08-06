@@ -12,12 +12,20 @@
 }
 
 .main-page{
-    background: #482be7;
+    background: #cf070e;
+    background-image: url(./assets/IMG_2170.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 100%;
+    
 }
 
 .maintop-nav{
     font-size: larger;
     margin: 20px;
+    text-align: center;
+    margin-top: 22rem;
 }
 .maintop-nav li{
     margin: 10px;
